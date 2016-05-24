@@ -1,1 +1,7 @@
 This is our document.
+
+blah blah
+foo bar
+
+This second line is a bug fix.
+
