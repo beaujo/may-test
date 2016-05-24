@@ -1,7 +1,9 @@
 This is our document.
 
 blah blah
+fubar
 foo bar
 
 This second line is a bug fix.
 
+  I hit tab
